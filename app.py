@@ -2,7 +2,8 @@
 """
 Created on Tue Oct  5 11:49:29 2021
 
-@author: Sushant
+@author: Data Profressor
+url : https://github.com/dataprofessor/bioactivity-prediction-app/blob/main/bioactivity_prediction_app.ipynb
 """
 import streamlit as st
 import pandas as pd
