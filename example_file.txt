@@ -1,0 +1,13 @@
+C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1.Cl.Cl CHEMBL545315
+Cc1cc(C(=O)N2CCOCC2)[nH]c1/C=C1\C(=O)Nc2ncnc(Nc3ccc4c(cnn4Cc4ccccc4)c3)c21 CHEMBL67003
+COc1cc2ncc(C#N)c(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1 CHEMBL99024
+CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1 CHEMBL133897
+O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1 CHEMBL336398
+CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F)c1ccccc1 CHEMBL131588
+O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F CHEMBL130628
+CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)C CHEMBL130478
+
+
+
+
+
