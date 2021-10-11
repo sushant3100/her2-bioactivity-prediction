@@ -1,1 +1,1 @@
-openjdk==6
+openjdk==1.7
